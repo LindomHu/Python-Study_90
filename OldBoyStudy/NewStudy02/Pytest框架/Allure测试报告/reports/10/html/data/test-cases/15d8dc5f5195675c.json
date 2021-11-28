@@ -1,0 +1,111 @@
+{
+  "uid" : "15d8dc5f5195675c",
+  "name" : "加购模块第一条测试用例",
+  "fullName" : "03test_AllureDemo.TestA#test_case1",
+  "historyId" : "3921477909cc92326201d4a15a8d5b45",
+  "time" : {
+    "start" : 1638094548174,
+    "stop" : 1638094548175,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "步骤一：选择商品",
+      "time" : {
+        "start" : 1638094548174,
+        "stop" : 1638094548174,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "步骤二：点击加入购物车",
+      "time" : {
+        "start" : 1638094548174,
+        "stop" : 1638094548174,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "3c119291f691a690",
+      "name" : "stdout",
+      "source" : "3c119291f691a690.txt",
+      "type" : "text/plain",
+      "size" : 49
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "第一条用例"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "feature",
+    "value" : "加购模块"
+  }, {
+    "name" : "suite",
+    "value" : "03test_AllureDemo"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestA"
+  }, {
+    "name" : "host",
+    "value" : "huixdeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "4602-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "03test_AllureDemo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "www.baidu.com",
+    "url" : "www.baidu.com",
+    "type" : "link"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "15d8dc5f5195675c.json",
+  "parameterValues" : [ ]
+}

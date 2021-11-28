@@ -1,0 +1,51 @@
+{
+  "uid" : "7edc9aef4bb11329",
+  "name" : "test_success",
+  "fullName" : "02test_Allure2#test_success",
+  "historyId" : "3915fbc1a03524ff4a4d0bc9f8827294",
+  "time" : {
+    "start" : 1638075101564,
+    "stop" : 1638075101565,
+    "duration" : 1
+  },
+  "description" : "this test success",
+  "descriptionHtml" : "<p>this test success</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "02test_Allure2"
+  }, {
+    "name" : "host",
+    "value" : "huixdeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "2592-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "02test_Allure2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7edc9aef4bb11329.json",
+  "parameterValues" : [ ]
+}

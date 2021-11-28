@@ -1,0 +1,73 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "加购模块",
+    "children" : [ {
+      "name" : "第一条用例",
+      "children" : [ {
+        "name" : "test_case1",
+        "uid" : "3c102e2bb4e3af81",
+        "parentUid" : "3bba32987a24a39d7101afb95f8e61e4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638087854901,
+          "stop" : 1638087854902,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3bba32987a24a39d7101afb95f8e61e4"
+    }, {
+      "name" : "第二条用例",
+      "children" : [ {
+        "name" : "test_case2",
+        "uid" : "56053bbe74c67c69",
+        "parentUid" : "18aafb660aa305c19389a22e2ad66cfe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638087854903,
+          "stop" : 1638087854903,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "18aafb660aa305c19389a22e2ad66cfe"
+    }, {
+      "name" : "第三条用例",
+      "children" : [ {
+        "name" : "test_case3",
+        "uid" : "8b506d16723355e9",
+        "parentUid" : "1eaf7601843b9334d2347647537f29c7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638087854905,
+          "stop" : 1638087854905,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1eaf7601843b9334d2347647537f29c7"
+    }, {
+      "name" : "第四条用例",
+      "children" : [ {
+        "name" : "test_case4",
+        "uid" : "d90d3cd3919597fe",
+        "parentUid" : "6ce52aa9c27cd0280444eacae34c8fa3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638087854906,
+          "stop" : 1638087854906,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6ce52aa9c27cd0280444eacae34c8fa3"
+    } ],
+    "uid" : "c8bf3a31e5eca26f166b4bb4dec16aa5"
+  } ],
+  "name" : "behaviors"
+}

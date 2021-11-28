@@ -1,0 +1,111 @@
+[ {
+  "uid" : "557c7843fc9a5cde",
+  "name" : "结算模块第二条用例",
+  "time" : {
+    "start" : 1638094548181,
+    "stop" : 1638094548181,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "109f1c1275bf6434",
+  "name" : "加购模块第二条测试用例",
+  "time" : {
+    "start" : 1638094548176,
+    "stop" : 1638094548176,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "906cff6ff3eaa53b",
+  "name" : "充值用例",
+  "time" : {
+    "start" : 1638094548182,
+    "stop" : 1638094548182,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e6045cb02b68bf55",
+  "name" : "结算模块第一条用例",
+  "time" : {
+    "start" : 1638094548180,
+    "stop" : 1638094548180,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d3b8a0e7a87ff9c9",
+  "name" : "test_case4",
+  "time" : {
+    "start" : 1638094548178,
+    "stop" : 1638094548178,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "f209139ca670e600",
+  "name" : "test_case2",
+  "time" : {
+    "start" : 1638094548183,
+    "stop" : 1638094548184,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "707ad69f74a2a337",
+  "name" : "test_case5",
+  "time" : {
+    "start" : 1638094548179,
+    "stop" : 1638094548179,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "60a391ef5ab5b276",
+  "name" : "test_case4",
+  "time" : {
+    "start" : 1638094548186,
+    "stop" : 1638094548190,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "15d8dc5f5195675c",
+  "name" : "加购模块第一条测试用例",
+  "time" : {
+    "start" : 1638094548174,
+    "stop" : 1638094548175,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "67386103053fb64b",
+  "name" : "test_case3",
+  "time" : {
+    "start" : 1638094548177,
+    "stop" : 1638094548177,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "dfd425a40bbae504",
+  "name" : "test_case3",
+  "time" : {
+    "start" : 1638094548185,
+    "stop" : 1638094548185,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

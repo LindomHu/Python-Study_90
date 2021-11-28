@@ -1,0 +1,71 @@
+{
+  "uid" : "906cff6ff3eaa53b",
+  "name" : "充值用例",
+  "fullName" : "03test_AllureDemo.TestC#test_case1",
+  "historyId" : "7c9a4613e9023ae3a657df91f513d20d",
+  "time" : {
+    "start" : 1638094548182,
+    "stop" : 1638094548182,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7218d8d4117bb34c",
+      "name" : "1132646f-050f-4de0-86e7-c00fcc95171e-attachment.txt",
+      "source" : "7218d8d4117bb34c.txt",
+      "type" : "text/plain",
+      "size" : 21
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "充值模块"
+  }, {
+    "name" : "suite",
+    "value" : "03test_AllureDemo"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestC"
+  }, {
+    "name" : "host",
+    "value" : "huixdeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "4602-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "03test_AllureDemo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "906cff6ff3eaa53b.json",
+  "parameterValues" : [ ]
+}

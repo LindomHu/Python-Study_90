@@ -1,0 +1,145 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "huixdeMacBook-Pro.local",
+    "children" : [ {
+      "name" : "4602-MainThread",
+      "children" : [ {
+        "name" : "结算模块第二条用例",
+        "uid" : "557c7843fc9a5cde",
+        "parentUid" : "d84c9fcd3a3e32746cd197ac38c9d719",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638094548181,
+          "stop" : 1638094548181,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "加购模块第二条测试用例",
+        "uid" : "109f1c1275bf6434",
+        "parentUid" : "d84c9fcd3a3e32746cd197ac38c9d719",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638094548176,
+          "stop" : 1638094548176,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "充值用例",
+        "uid" : "906cff6ff3eaa53b",
+        "parentUid" : "d84c9fcd3a3e32746cd197ac38c9d719",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638094548182,
+          "stop" : 1638094548182,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "结算模块第一条用例",
+        "uid" : "e6045cb02b68bf55",
+        "parentUid" : "d84c9fcd3a3e32746cd197ac38c9d719",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638094548180,
+          "stop" : 1638094548180,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_case4",
+        "uid" : "d3b8a0e7a87ff9c9",
+        "parentUid" : "d84c9fcd3a3e32746cd197ac38c9d719",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638094548178,
+          "stop" : 1638094548178,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_case2",
+        "uid" : "f209139ca670e600",
+        "parentUid" : "d84c9fcd3a3e32746cd197ac38c9d719",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638094548183,
+          "stop" : 1638094548184,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_case5",
+        "uid" : "707ad69f74a2a337",
+        "parentUid" : "d84c9fcd3a3e32746cd197ac38c9d719",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638094548179,
+          "stop" : 1638094548179,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_case4",
+        "uid" : "60a391ef5ab5b276",
+        "parentUid" : "d84c9fcd3a3e32746cd197ac38c9d719",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638094548186,
+          "stop" : 1638094548190,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "加购模块第一条测试用例",
+        "uid" : "15d8dc5f5195675c",
+        "parentUid" : "d84c9fcd3a3e32746cd197ac38c9d719",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638094548174,
+          "stop" : 1638094548175,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_case3",
+        "uid" : "67386103053fb64b",
+        "parentUid" : "d84c9fcd3a3e32746cd197ac38c9d719",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638094548177,
+          "stop" : 1638094548177,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_case3",
+        "uid" : "dfd425a40bbae504",
+        "parentUid" : "d84c9fcd3a3e32746cd197ac38c9d719",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638094548185,
+          "stop" : 1638094548185,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d84c9fcd3a3e32746cd197ac38c9d719"
+    } ],
+    "uid" : "695aab9183d886c00e12bec89ac68fb6"
+  } ],
+  "name" : "timeline"
+}

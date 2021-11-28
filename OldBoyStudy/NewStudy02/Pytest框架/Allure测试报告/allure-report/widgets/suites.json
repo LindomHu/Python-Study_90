@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "39b73663025ede49dfdb52b259b08f3a",
+    "name" : "02test_Allure2",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 1,
+      "skipped" : 1,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 4
+    }
+  } ]
+}

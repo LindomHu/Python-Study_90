@@ -1,0 +1,74 @@
+{
+  "uid" : "e6045cb02b68bf55",
+  "name" : "结算模块第一条用例",
+  "fullName" : "03test_AllureDemo.TestB#test_case1",
+  "historyId" : "d551edfc39ca09f2af5862e6b5a6594e",
+  "time" : {
+    "start" : 1638094548180,
+    "stop" : 1638094548180,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e8a5d29bc046e3c2",
+      "name" : "stdout",
+      "source" : "e8a5d29bc046e3c2.txt",
+      "type" : "text/plain",
+      "size" : 26
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "结算模块"
+  }, {
+    "name" : "story",
+    "value" : "结算模块第一条用例"
+  }, {
+    "name" : "suite",
+    "value" : "03test_AllureDemo"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestB"
+  }, {
+    "name" : "host",
+    "value" : "huixdeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "4602-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "03test_AllureDemo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e6045cb02b68bf55.json",
+  "parameterValues" : [ ]
+}

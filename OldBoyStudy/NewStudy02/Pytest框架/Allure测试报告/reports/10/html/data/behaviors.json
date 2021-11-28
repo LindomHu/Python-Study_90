@@ -1,0 +1,177 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "加购模块",
+    "children" : [ {
+      "name" : "第一条用例",
+      "children" : [ {
+        "name" : "加购模块第一条测试用例",
+        "uid" : "15d8dc5f5195675c",
+        "parentUid" : "3bba32987a24a39d7101afb95f8e61e4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638094548174,
+          "stop" : 1638094548175,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3bba32987a24a39d7101afb95f8e61e4"
+    }, {
+      "name" : "第二条用例",
+      "children" : [ {
+        "name" : "加购模块第二条测试用例",
+        "uid" : "109f1c1275bf6434",
+        "parentUid" : "18aafb660aa305c19389a22e2ad66cfe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638094548176,
+          "stop" : 1638094548176,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "18aafb660aa305c19389a22e2ad66cfe"
+    }, {
+      "name" : "第三条用例",
+      "children" : [ {
+        "name" : "test_case3",
+        "uid" : "67386103053fb64b",
+        "parentUid" : "1eaf7601843b9334d2347647537f29c7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638094548177,
+          "stop" : 1638094548177,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1eaf7601843b9334d2347647537f29c7"
+    }, {
+      "name" : "第四条用例",
+      "children" : [ {
+        "name" : "test_case4",
+        "uid" : "d3b8a0e7a87ff9c9",
+        "parentUid" : "6ce52aa9c27cd0280444eacae34c8fa3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638094548178,
+          "stop" : 1638094548178,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6ce52aa9c27cd0280444eacae34c8fa3"
+    }, {
+      "name" : "第五条用例",
+      "children" : [ {
+        "name" : "test_case5",
+        "uid" : "707ad69f74a2a337",
+        "parentUid" : "3f387dcae7692cd140bf23f090cc2af7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638094548179,
+          "stop" : 1638094548179,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3f387dcae7692cd140bf23f090cc2af7"
+    } ],
+    "uid" : "c8bf3a31e5eca26f166b4bb4dec16aa5"
+  }, {
+    "name" : "结算模块",
+    "children" : [ {
+      "name" : "结算模块第一条用例",
+      "children" : [ {
+        "name" : "结算模块第一条用例",
+        "uid" : "e6045cb02b68bf55",
+        "parentUid" : "2fbfdc2a49e59a282fc5828eac4d25e9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638094548180,
+          "stop" : 1638094548180,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2fbfdc2a49e59a282fc5828eac4d25e9"
+    }, {
+      "name" : "结算模块第二条用例",
+      "children" : [ {
+        "name" : "结算模块第二条用例",
+        "uid" : "557c7843fc9a5cde",
+        "parentUid" : "423abcf214566e3be58f16aea574c816",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638094548181,
+          "stop" : 1638094548181,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "423abcf214566e3be58f16aea574c816"
+    } ],
+    "uid" : "5d3bb4b7968978764e588cfe9718ec6c"
+  }, {
+    "name" : "充值模块",
+    "children" : [ {
+      "name" : "充值用例",
+      "uid" : "906cff6ff3eaa53b",
+      "parentUid" : "19e4aa5da2e51d90b2de51107419ab5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638094548182,
+        "stop" : 1638094548182,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_case2",
+      "uid" : "f209139ca670e600",
+      "parentUid" : "19e4aa5da2e51d90b2de51107419ab5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638094548183,
+        "stop" : 1638094548184,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_case3",
+      "uid" : "dfd425a40bbae504",
+      "parentUid" : "19e4aa5da2e51d90b2de51107419ab5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638094548185,
+        "stop" : 1638094548185,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_case4",
+      "uid" : "60a391ef5ab5b276",
+      "parentUid" : "19e4aa5da2e51d90b2de51107419ab5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638094548186,
+        "stop" : 1638094548190,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "19e4aa5da2e51d90b2de51107419ab5c"
+  } ],
+  "name" : "behaviors"
+}
