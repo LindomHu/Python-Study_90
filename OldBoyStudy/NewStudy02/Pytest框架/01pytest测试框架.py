@@ -54,7 +54,7 @@ pytest是一个非常成熟的全功能的python测试框架
 安装：pip install pytest-rerunfailures
 执行：
 * putest --reruns 3 -v -s 03test_pytest_test.py   测试失败时需要重新运行3次   
-* pytest -v --reruns 5 --reruns-delay 1    测试失败时需要重新运行3次，每条运行后间隔1秒
+* pytest -v --reruns 5 --reruns-delay 1    测试失败时需要重新运行5次，每条运行后间隔1秒
 
 """
 
