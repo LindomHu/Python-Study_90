@@ -47,8 +47,11 @@ Remote Path需要改成"/wd/hub"
 Error: Cannot verify the signature of '/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium
 /node_modules/appium-uiautomator2-server/apks/appium-uiautomator2-server-v4.24.0.apk'. Original error: Error: A JNI error has occurred
 
-
 遇到类似的情况，是因为缺少appium-uiautomator2-server-v4.21.1.apk
 试一试：在appium 安装目录下执行命令：npm install appium-uiautomator2-driver (未解决)
+
+
+-在mac的终端面板输入uiautomatorviewer启动工具出现无法截图的问题
+（暂未解决，需要重新对uiautomatorviewer进行打包，遇到mvn not found的问题）
 
 """
