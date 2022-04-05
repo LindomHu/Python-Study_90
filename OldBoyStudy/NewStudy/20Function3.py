@@ -28,7 +28,12 @@ print("from test3 return %s" %type(t3),t3)
 
 # 总结
 '''
+return:
 1 没有返回值：返回None
 2 返回值 = 1：返回object
-3 返回值 > 1：返回tuple
+3 返回值 > 1：返回tuple(元组)
+
+函数的返回值的作用：
+这个函数后续的函数可能要根据这个函数返回值来进行不同的操作（例如登录，返回true，返回false）
+
 '''

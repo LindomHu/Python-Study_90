@@ -23,10 +23,10 @@
 
 
 import time
-from time import sleep,ctime
-import logging
+# from time import sleep,ctime
+# import logging
 
-logging.basicConfig(level=logging.INFO)
+# logging.basicConfig(level=logging.INFO)
 
 def timmer(func):
     def wrapper(*args,**kwargs):
@@ -39,12 +39,12 @@ def timmer(func):
 @timmer
 def test1():
     time.sleep(2)
-    print("in the test1 ")
+    print("run the funcrion in the test1 ")
 
 @timmer
 def test2():
     time.sleep(1)
-    print("in the test2")
+    print("run the function in the test2")
 
 
 # test1()
