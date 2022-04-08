@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 # @Time : 2022/4/5 18:20 
 # @Author : Lindom
-# @File : test_Selenium.py
+# @File : test_selenium.py
 # @Software: PyCharm
 
 import selenium
