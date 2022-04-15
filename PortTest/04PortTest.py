@@ -15,12 +15,13 @@ import re
 
 # 接口地址
 url = "http://192.168.103.106:1080/webtours/nav.pl?in=home"
+headers = {"Chrom/1.0cxcccc"}
 
 
 # 为了保持和下一个接口建立相同的连接通道
 r1 = requests.session()
 # 发get请求
-res = r1.get(url)
+res = r1.get(url,headers=headers)
 
 print(res.text)
 userSession= re.findall(r'name=userSession value=(.+?)>',res.text)
