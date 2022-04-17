@@ -1,17 +1,16 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
-# @Time : 2022/4/13 下午4:25 
+# @Time : 2022/4/17 上午12:15 
 # @Author : huix
 # @File : test_ActionChains.py 
 # @Software: PyCharm
+
 import pytest
 import unittest
 from selenium import webdriver
 from selenium.webdriver import ActionChains
 import time
-
 from selenium.webdriver.common.by import By
-
 
 class TestActionChains():
     def setup(self):
@@ -74,4 +73,23 @@ class TestActionChains():
 
         element_target4 = self.driver.find_element(By.XPATH,"/html/body/div[5]")
         action.click_and_hold(element_drag).move_to_element(element_target4).release().perform()
+        time.sleep(1)
+
+    def testCase_keys(self):
+        """
+        1-打开https://sahitest.com/demo/label.htm页面
+        2-在username输入框输入'username'
+        3-空格、再输入test
+        4.全选输入框的内容（组合键）
+        """
+        self.driver.get("https://sahitest.com/demo/label.htm")
+        self.driver.find_element_by_xpath("/html/body/label[1]/input").click()
+        action = ActionChains(self.driver)
+        action.send_keys("username").pause(1)
+        action.send_keys(Keys.SPACE).pause(1)
+        action.send_keys("test").pause(1)
+        action.send_keys(Keys.BACK_SPACE).pause(1)
+        action.send_keys(Keys.CONTROL, 'a').pause(1)
+        # macs上存在一个bug，谷歌和safari浏览器上组合按键无效，可以使用火狐浏览器试试
+        action.perform()
         time.sleep(1)

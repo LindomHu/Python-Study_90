@@ -6,12 +6,13 @@
 # @Software: PyCharm
 
 import selenium
+from time import sleep
 from selenium import webdriver
+from WebAutoTest.base import Base
 
-def test_selenium():
-    # 注意Chrome的首字母是大写的
-    driver = webdriver.Chrome()
-    driver.get("https://www.baidu.com/")
-    driver.close()
-
-# test_selenium()
+class TestBaidu(Base):
+    def test_selenium(self):
+        self.driver = webdriver.Firefox()
+        self.driver.get("https://www.baidu.com/")
+        sleep(3)
+    # test_selenium()
