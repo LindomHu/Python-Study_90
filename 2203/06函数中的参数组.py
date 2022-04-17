@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 # @Time : 2022/4/12 上午11:03 
 # @Author : huix
-# @File : 06函数中的*args和**kargs.py 
+# @File : 06函数中的参数组.py
 # @Software: PyCharm
 
 
